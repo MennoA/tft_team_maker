@@ -7,9 +7,10 @@ public class Trait {
    List<Integer> upgrade_counts;
    Integer unit_size;
 
-   public Trait(String name){
+   public Trait(String name, List<Integer> upgrade_counts){
       this.name = name;
       this.unit_size = 1;
+      this.upgrade_counts = upgrade_counts;
    }
 }
 
