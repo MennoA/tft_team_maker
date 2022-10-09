@@ -1,0 +1,31 @@
+public class Champion_trait {
+   public static Trait ASTRAL = new Trait("astral");
+   public static Trait DARK_FLIGHT = new Trait("darkflight");
+   public static Trait DRAGON = new Trait("dragon");
+   public static Trait GUILD = new Trait("guild");
+   public static Trait JADE = new Trait("jade");
+   public static Trait LAGOON = new Trait("lagoon");
+   public static Trait MIRAGE = new Trait("mirage");
+   public static Trait RAGEWING = new Trait("ragewing");
+   public static Trait SCALESCORN = new Trait("scalescorn");
+   public static Trait SHIMERSCALE = new Trait("shimerscale");
+   public static Trait TEMPEST = new Trait("tempest");
+   public static Trait WHISPERS = new Trait("whispers");
+   public static Trait ASSASSIN = new Trait("assassin");
+   public static Trait BARD = new Trait("bard");
+   public static Trait BRUISER = new Trait("bruiser");
+   public static Trait CANNONIER = new Trait("cannonier");
+   public static Trait CAVALIER = new Trait("cavalier");
+   public static Trait DRACOMANCER = new Trait("dracomancer");
+   public static Trait EVOKER = new Trait("evoker");
+   public static Trait GUARDIAN = new Trait("guardian");
+   public static Trait MAGE = new Trait("mage");
+   public static Trait MONOLITH = new Trait("monolith");
+   public static Trait MYSTIC = new Trait("mystic");
+   public static Trait PRODIGY = new Trait("prodigy");
+   public static Trait SHAPESHIFTER = new Trait("shapeshifter");
+   public static Trait SPELLTHIEF = new Trait("spellthief");
+   public static Trait STARCALLER = new Trait("starcaller");
+   public static Trait SWIFTSHOT = new Trait("swiftshot");
+   public static Trait WARRIOR = new Trait("warrior");
+}
